@@ -7,11 +7,11 @@ The project investigates transfer learning strategies for reducing target-domain
 
 ## Repository Structure
 
-├── Experiment1/  # Performance Comparison in the Target Domain
-├── Experiment2/  # Effect of Target-Domain Data Size
-├── Experiment3/  # Fine-Tuning Strategy Comparison
-├── Experiment4/  # Parameter Efficiency of LoRA
-└── README.md
+- Experiment1/  # Performance Comparison in the Target Domain
+- Experiment2/  # Effect of Target-Domain Data Size
+- Experiment3/  # Fine-Tuning Strategy Comparison
+- Experiment4/  # Parameter Efficiency of LoRA
+- README.md
 
 ## How to Run
 
